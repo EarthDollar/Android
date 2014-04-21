@@ -1,4 +1,4 @@
-Welcome to _Litecoin Wallet_, a standalone Litecoin payment app for your Android device!
+Welcome to _Android Wallet_, a standalone EarthDollar payment app for your Android device.
 
 This project contains several sub-projects:
 
